@@ -1,4 +1,4 @@
-package basics;
+package Programs;
 
 public class Star_Pattern {
     public static void main(String[] args)
